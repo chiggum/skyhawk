@@ -7,9 +7,9 @@ Graphics   : Suwardhan Ahirrao
 
 
 *Description of Project
--My first experience with JScript.
--Html5 canvas tag to draw each object/element of the game.
--JScript to add motion to objects.
+-My first experience with JS.
+-HTML5 canvas tag to draw each object/element of the game.
+-JS to add motion to objects.
 -Spritesheet for images.
 
 * Gameplay
