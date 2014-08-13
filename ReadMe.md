@@ -1,19 +1,19 @@
 SkyHawk 
------------
-Html 5 Game Development
------------------------------
-Developer : Dhruv Kohli
-Graphics   : Suwardhan Ahirrao
+===========
+
+**Html 5 Game Development**
+- Developer : Dhruv Kohli
+- Graphics   : Suwardhan Ahirrao
 
 Link to Game: http://5gbfree.com
 
-* Description of Project
+**Description of Project**
 - My first experience with JS.
 - HTML5 canvas tag to draw each object/element of the game.
 - JS to add motion to objects.
 - Spritesheet for images.
 
-* Gameplay
+**Gameplay**
 - Arrow keys : Make your Jet move around
 - WASD Keys: Same as Arrow Keys
 - Spacebar    : Fire Bullets to kill Alien Jets
@@ -21,10 +21,10 @@ Link to Game: http://5gbfree.com
 - Key 'P'        : Pause 
 - Key 'O'       : Continue
 
-* Goal
+**Goal**
 - Kill 250 Alien Jets to get Victory.
 
-* Lives
+**Lives**
 - Single life granted.
 
 
